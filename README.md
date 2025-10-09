@@ -1,2 +1,2 @@
 # guacamole
-My favorite guacamole
+My favorite guacamole recipe.
